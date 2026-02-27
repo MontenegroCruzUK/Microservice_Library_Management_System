@@ -28,6 +28,7 @@
         <module>Gateway</module>
         <module>Eureka</module>
         <module>Config</module>
+        <module>Genre</module>
 
     </modules>
 

@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Spring Boot
+*.jar
+*.war
+
+# Environment
+.env
+
