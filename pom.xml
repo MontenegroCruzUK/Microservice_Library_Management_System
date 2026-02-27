@@ -25,6 +25,9 @@
     </properties>
 
     <modules>
+        <module>Gateway</module>
+        <module>Eureka</module>
+        <module>Config</module>
 
     </modules>
 
